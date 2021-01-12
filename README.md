@@ -1,3 +1,5 @@
+https://bv-loop.github.io/Dice-Game/dice.html
+
 # Simple multiplayer Dice Rolling Game 
 
 * Developed with JavaScript, HTML and CSS
