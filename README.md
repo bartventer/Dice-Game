@@ -1,4 +1,4 @@
-https://bv-loop.github.io/Dice-Game/
+https://bartventer.github.io/Dice-Game/
 
 # Simple multiplayer Dice Rolling Game 
 
